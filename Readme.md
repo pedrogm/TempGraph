@@ -1,4 +1,4 @@
-# Málaga TempGrapgh
+# Malaga TempGrapgh
 
 
 The goal of this small project is to create a bar graph to represent the average temperature of Malaga by month during 2018, using gradient colors.
